@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "276556170070",
+    "firebase_url": "https://blogapp-882e6.firebaseio.com",
+    "project_id": "blogapp-882e6",
+    "storage_bucket": "blogapp-882e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276556170070:android:ade4e0ad2d0f1f89",
+        "android_client_info": {
+          "package_name": "com.dreampany.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276556170070-78bmiefnnnmnm76s7sr5obuub0oj4kj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkW8vNyOfroIJyGzRmcWbbYGg0kXtMNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
